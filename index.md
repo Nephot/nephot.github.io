@@ -1,5 +1,15 @@
-# Rig-6 Supremacy
-hi my name is pyrosfere
+# Pyrosfere
+
+\> i fucking hate rthro
+
+\> r6 enthusiast
+
+\> definetily not og (joined in 2019)
+
+\> sucks at every game
+
+\> this thing is cringe af i know
+
 ## Explore our website:
 
 [See categories →](categories)
