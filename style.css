@@ -1,0 +1,33 @@
+h1 a {
+    display: none;
+    color: transparent;
+    font-size: 0px;
+    border: none;
+    margin-bottom: -10px
+}
+
+body {
+    color: #f0f0f0;
+    background-color: #1b1b1b 
+}
+
+::selection, ::-moz-selection {
+    background-color: #a7d7f9;
+    color: #1b1b1b;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fff
+}
+
+a, a:visited {
+    color: #a7d7f9;
+}
+
+a:hover {
+    color: #a7d7f9;
+}
+
+a:hover:visited {
+    color: #3e5a6d
+}
